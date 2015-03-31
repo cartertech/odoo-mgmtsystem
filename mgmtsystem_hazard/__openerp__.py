@@ -20,9 +20,9 @@
 ##############################################################################
 {
     "name": "Management System - Hazard",
-    "version": "1.1",
-    "author": "Savoir-faire Linux",
-    "website": "http://www.savoirfairelinux.com",
+    "version": "1.2",
+    "author": "Savoir-faire Linux and One Click Software",
+    "website": "http://oneclick.solutions",
     "license": "AGPL-3",
     "category": "Management System",
     "description": """\

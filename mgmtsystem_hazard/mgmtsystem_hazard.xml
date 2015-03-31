@@ -68,11 +68,14 @@
                     </group>
                     <notebook colspan="4">
                         <page string="Analysis">
+                            <group>
                             <field name="department_id"/>
                             <field name="responsible_user_id"/>
                             <field name="analysis_date"/>
+                            </group>
                         </page>
                         <page string="Risk Evaluation">
+                            <group>
                             <field name="probability_id"/>
                             <field name="severity_id"/>
                             <newline/>
@@ -82,6 +85,7 @@
                             <field name="acceptability"/>
                             <newline/>
                             <field name="justification"/>
+                            </group>
                         </page>
                         <page string="Control Measures">
                             <field name="control_measure_ids" nolabel="1"/>
